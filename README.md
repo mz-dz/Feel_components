@@ -1,3 +1,14 @@
+A library for custom UI components using the Flet framework.
+
+## Installation
+
+Clone the repository and install the package locally:
+
+```bash
+git clone https://github.com/mz-dz/Feel_components.git
+cd Feel_components
+pip install .
+
 
 ```text
 MIT License
